@@ -3451,23 +3451,17 @@ exts_list = [
     ('performance', '0.12.2', {
         'checksums': ['b55e663eb45b8e88625c704506f20c4068a1c892c5a6a94d7bd0c0e3a7ed4028'],
     }),
-    ('fastlogranktest', '0.2.1', {
-        'checksums': ['457c411240b5ee73108042370ccea0f8fa1999e876b2306456d4723be27eb5c8'],
+    ('svgPanZoom', '0.3.4', {
+        'checksums': ['02368f3640853cae6c9ea478fe4dc038c05e1d136a2568c221b8b8ee177ff4c5'],
     }),
-    ('pbmcapply', '1.5.1', {
-        'checksums': ['7ffc2854a384962f0dd523aa9ef33ce8fc290997206b71b840a49049d87112dd'],
+    ('RTriangle', '1.6-0.14', {
+        'checksums': ['3bbdb60cce368665964c912e52d13bc16fe0ac8f63841d4d291f0a98bdefa713'],
     }),
-    ('PWEALL', '1.3.0.1', {
-        'checksums': ['6fb7eaf557f9bd17bcb94945814dbd77a081d709976bc8046746ff0be7c1dcdc'],
+    ('concaveman', '1.1.0', {
+        'checksums': ['9fd1d6aeee3d9bfff7f8ab3ba9b020c2201bb00ca9948eef386b4560fce86e2c'],
     }),
-    ('goldilocks', '0.3.0', {
-        'checksums': ['94df7f9d3550dc3790ea3c8f3f364f7131c907a235f498473c8c4e4f959b26c0'],
-    }),
-    ('r2rtf', '1.1.1', {
-        'checksums': ['d64b88187b5eb7bc69eae37f493fdae8417d5127d0a44f1586a00827bc321f52'],
-    }),
-    ('gsDesign', '3.6.4', {
-        'checksums': ['b96075650a5bcbb9ebab78b7094d51f451d086b7c97a3a427635b52fece176d2'],
+    ('distances', '0.1.11', {
+        'checksums': ['2dcb613492e27403fe9cb27fa798fb4f6d9e1fbe8f7d84d20eb9b369020e516c'],
     }),
 ]
 
